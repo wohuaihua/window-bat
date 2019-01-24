@@ -1,7 +1,8 @@
 @echo off
-rem æ–‡ä»¶ç±»åž‹å…³è”åˆ°æ‰§è¡Œç¨‹åºä¸Žå‚æ•°
-rem æŸ¥æ‰¾æ‰€æœ‰è¿™ç§å…³ç³»
+
+rem ÎÄ¼þÀàÐÍ¹ØÁªµ½Ö´ÐÐ³ÌÐòÓë²ÎÊý
+rem ²éÕÒËùÓÐÕâÖÖ¹ØÏµ
 ftype
-rem æŸ¥æ‰¾exefileçš„å…³ç³»
+rem ²éÕÒexefileµÄ¹ØÏµ
 ftype exefile
 pause

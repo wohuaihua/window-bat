@@ -1,9 +1,7 @@
 @echo off
-echo 1110 > 1.txt
-echo 2220 >> 1.txt
-
-rem find åœ¨æ–‡ä»¶ä¸­æœç´¢å­—ç¬¦ä¸²
-find 1110 1.txt
-
+echo yyyyyy > 1.txt
+echo xxxxxx >> 1.txt
+rem findÔÚÎÄ¼şÖĞËÑË÷×Ö·û´®  ±ØĞëÒªÊ¹ÓÃ""
+find  /N "yyyy" 1.txt
 del 1.txt
 pause

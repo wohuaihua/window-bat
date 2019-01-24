@@ -1,4 +1,5 @@
 @echo off
-rem æ‰¹å¤„ç†è°ƒç”¨å¤–éƒ¨ç¨‹åº
-start explorer d:\
+
+rem Åú´¦Àíµ÷ÓÃÍâ²¿³ÌĞò
+start explorer d:/
 pause

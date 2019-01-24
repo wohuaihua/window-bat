@@ -1,12 +1,11 @@
 @echo off
-echo 111 > 1.txt
-echo 222 >> 1.txt
+echo yyyyyy>1.txt
+echo xxxxxx>>1.txt
 
-rem /v æœªåŒ…å«
-rem /c åŒ…å«
-rem /n æ˜¾ç¤ºè¡Œå·
-rem /off[line] ä¸è¦è·³è¿‡å…·æœ‰è„±æœºå±æ€§é›†çš„æ–‡ä»¶
-
-type 1.txt | find 111
+rem /v ÏÔÊ¾Î´°üº¬
+rem /c ÏÔÊ¾°üº¬µÄĞĞÊı
+rem /n ÏÔÊ¾ĞĞºÅ
+rem /off[line] ²»ÒªÌø¹ı¾ßÓĞÍÑ»úÊôĞÔ¼¯µÄÎÄ¼ş
+type 1.txt | find /n "yyyy"
 del 1.txt
 pause

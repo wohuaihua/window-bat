@@ -1,8 +1,9 @@
 @echo off
 
-remè®¾ç½®æ–‡ä»¶æ‰©å±•å å…³è”æ–‡ä»¶ç±»å‹
+rem ÉèÖÃÎÄ¼şÀ©Õ¹Ãû  ¹ØÁªÎÄ¼şÀàĞÍ
+
 assoc
 assoc .txt
 assoc .doc
 assoc .exe
-paush
+pause
