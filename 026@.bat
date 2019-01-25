@@ -1,2 +1,4 @@
 @echo off
 echo @
+echo πÿ±’ªÿœ‘ echo off
+pause

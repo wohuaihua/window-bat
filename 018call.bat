@@ -1,6 +1,6 @@
 @echo off
-echo callçš„åº”ç”¨
-rem è°ƒç”¨å…¶ä»–æ‰¹å¤„ç†
-call d:\test\test.bat
-echo æ‰§è¡Œå®ŒæŒ‡å®šæ‰¹å¤„ç†ï¼Œç»§ç»­æ‰§è¡Œæœ¬æ‰¹å¤„ç†
+echo callµÄÓ¦ÓÃ
+rem µ÷ÓÃÆäËûÅú´¦Àí³ÌÐò
+call 001helloworld.bat
+echo Ö´ÐÐÍêÖ¸¶¨µÄÅú´¦Àí£¬¼ÌÐøÖ´ÐÐ±¾Åú´¦Àí
 pause

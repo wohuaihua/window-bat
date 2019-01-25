@@ -1,5 +1,3 @@
 @echo off
-
-if not exist huaihua.txt echo "not exist huaihua"
-
+if not exist huaihua.txt echo not exist txt
 pause

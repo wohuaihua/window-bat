@@ -1,5 +1,5 @@
 @echo off
 setlocal EnableDelayedExpansion
-set a=4
-set a=5 & echo !a!
+set a=5
+set a=6 & echo !a!
 pause

@@ -1,3 +1,4 @@
 @echo off
 copy %0 .\copy.bat
-echo success
+echo ¸³Öµ×Ô¼º
+pause

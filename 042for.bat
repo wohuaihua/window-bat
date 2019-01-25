@@ -1,3 +1,5 @@
 @echo off
-:: æŠŠ1-7ä¸ªå­—æ¯æ‰“å°å‡ºæ¥
+
+rem Í¨Åä·û£¬´ú±íÒ»¸ö×Ö½Ú
 for /d %%i in (c:\???????) do echo %%i
+pause
