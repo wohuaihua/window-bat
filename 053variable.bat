@@ -1,9 +1,11 @@
 @echo off
-::å­—ç¬¦ä¸²æˆªå– %a:~[m[,n]]% mä¸ºåç§»é‡  nä¸ºé•¿åº¦
+title ×Ö·û´®½ØÈ¡
+rem ×Ö·û´®½ØÈ¡ %a:~[m[,n]]% mÎªÆ«ÒÆÁ¿ nÎª³¤¶È
+echo ×Ö·û´®½ØÈ¡
+echo.
 set a=www.baidu.com
 set var=%a:~1,2%
-
 set newvar=%a:~-3%
 echo %var%
-
 echo %newvar%
+pause
